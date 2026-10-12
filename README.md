@@ -52,3 +52,10 @@ Sidebar доступен на desktop; на ширине менее 992 px ис�
 - Bootstrap validation: https://getbootstrap.com/docs/5.3/forms/validation/
 - Vite: https://vite.dev/guide/
 
+<!-- portfolio-visual:start -->
+## Скриншот
+
+![Dashboard shell and profile sample with Vite, TypeScript and Bootstrap 5](docs/portfolio/screenshot.png)
+
+Скриншот интерфейса.
+<!-- portfolio-visual:end -->
